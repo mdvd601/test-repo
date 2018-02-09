@@ -1,2 +1,2 @@
-# test-repo
-Test repo for learning guthub
+# Test-Repo
+Test repo for learning guthub and desktop app
